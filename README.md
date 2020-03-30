@@ -20,7 +20,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+*TBD
 
 ## Video Walkthrough
 
@@ -32,11 +32,11 @@ GIF created with [Recordit](https://recordit.co/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+This was my first time developing an Android App! Althought the app is fairly simple, I learned a lot. I got the chance to revisit Java, since using it during AP Computer Science in high school (~ 3 years ago). I also learned the basics of Git and how to access it through the terminal and Android Studios. I would recommend this project for any beginners or those who want some app development experience!
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2020] [Crystal Lee]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
